@@ -1,0 +1,19 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://review.gerrithub.io/raulnegreiros/sandbox"
+  },
+  "keywords": [
+    "test",
+    "dummy"
+  ],
+  "author": "Raul Negreiros",
+  "license": "ISC"
+}
